@@ -9,5 +9,3 @@ Focus: Web / Frontend / Cloud / AI
 
 ## Links
 - X: https://x.com/chachamame0420
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abetomoki0420&theme=transparent&hide_border=true)](https://git.io/streak-stats)
