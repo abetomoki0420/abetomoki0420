@@ -9,3 +9,8 @@ Focus: Web / Frontend / Cloud / AI
 
 ## Links
 - X: https://x.com/chachamame0420
+
+## Tech Stack
+- Frontend: React, TypeScript, Next.js
+- Cloud: AWS
+- AI: LLM integrations
