@@ -9,3 +9,7 @@ Focus: Web / Frontend / Cloud / AI
 
 ## Links
 - X: https://x.com/chachamame0420
+
+## Stats
+- Open source contributor
+- Building things on the web since the early days
